@@ -1,5 +1,5 @@
 ---
-is_a: Topic
+type: Topic
 ---
 # Note- taking
 Everything related to note-taking systems, personal knowledge management (PKM), and writing workflows. This topic collects resources, essays, and ideas about how to capture and organize knowledge effectively.

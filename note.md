@@ -1,5 +1,5 @@
 ---
-is_a: Type
+type: Type
 _icon: note
 _color: "#6b7280"
 ---

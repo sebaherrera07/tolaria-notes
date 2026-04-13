@@ -1,5 +1,5 @@
 ---
-is_a: Topic
+type: Topic
 ---
 # Tolaria
 

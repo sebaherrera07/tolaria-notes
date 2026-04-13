@@ -1,5 +1,5 @@
 ---
-is_a: Event
+type: Event
 date: 2026-04-10
 belongs_to: "[[luca-rossi]]"
 ---

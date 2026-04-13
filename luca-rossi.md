@@ -1,5 +1,5 @@
 ---
-is_a: Person
+type: Person
 url: https://refactoring.fm
 ---
 # Luca Rossi

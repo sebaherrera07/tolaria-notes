@@ -1,5 +1,5 @@
 ---
-is_a: Note
+type: Note
 url: https://refactoring.fm/p/how-i-take-notes-part-1
 related_to: "[[note-taking]]"
 ---

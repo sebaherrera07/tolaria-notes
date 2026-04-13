@@ -1,5 +1,5 @@
 ---  
-is_a: Note
+type: Note
 related_to: "[[tolaria]]"
 ---
 # The Default Types and Why They Exist

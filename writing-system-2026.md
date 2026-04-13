@@ -1,5 +1,5 @@
 ---  			  
-is_a: Project
+type: Project
 status: active
 related_to: "[[note- taking]]"
 ---  			  

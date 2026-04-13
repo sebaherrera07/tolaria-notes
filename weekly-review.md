@@ -1,5 +1,5 @@
 ---  		  
-is_a: Procedure
+type: Procedure
 status: active
 ---  		  
 # Weekly Review
