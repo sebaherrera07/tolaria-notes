@@ -4,7 +4,7 @@ related_to: "[[tolaria]]"
 ---
 # The Bottom Bar
 
-The bottom bar is Tolaria's status bar — mostly informational rather than interactive. It keeps you aware of your current state without getting in your way.
+The bottom bar is Tolaria's status bar — more informational than interactive. It keeps you aware of your current state without getting in your way.
 
 ### 📂 Vault selection
 
