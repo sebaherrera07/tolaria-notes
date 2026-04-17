@@ -1,12 +1,9 @@
-name: Active Projects
-icon: null
-color: null
-sort: null
-filters:
-  all:
-  - field: type
-    op: equals
-    value: Project
-  - field: Status
-    op: equals
-    value: In progress
+name: Active Projects\
+icon: null\
+color: null\
+sort: null\
+filters:\
+all:
+
+- field: type op: equals value: Project
+- field: Status op: equals value: In progress
