@@ -1,4 +1,4 @@
 ---
 type: Type
-_order: 6
+_order: 4
 ---

@@ -2,7 +2,7 @@
 type: Note
 related_to: "[[tolaria]]"
 ---
-# The Sidebar
+# Sidebar
 
 The sidebar is your primary navigation tool. It groups notes in different ways so you can find what you need quickly.
 

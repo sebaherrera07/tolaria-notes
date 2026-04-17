@@ -2,7 +2,7 @@
 type: Note
 related_to: "[[tolaria]]"
 ---
-# The Note List
+# Note List
 
 The note list shows the subset of notes selected by the current sidebar section. For example, clicking "Types → Project" shows all your Project notes.
 
