@@ -6,6 +6,12 @@ related_to: "[[tolaria]]"
 
 The bottom bar is Tolaria's status bar — mostly informational rather than interactive. It keeps you aware of your current state without getting in your way.
 
+### 📂 Vault selection
+
+By clicking on the vault bottom left you can change the active vault, open a new local folder, or create a new one by cloning a Git repo
+
+![CleanShot 2026-04-17 at 15.35.16@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776432929539-CleanShot_2026-04-17_at_15.35.16_2x.png)
+
 ### 🔄 Git Sync Status
 
 Shows pending uncommitted changes in your vault. When you see a count, you have uncommitted edits. Click to see what's changed or commit directly by clicking on `commit`.
@@ -16,20 +22,20 @@ If you have [[autogit]] enabled, the commit button automatically creates a commi
 
 A lightweight git history view shows recent changes across all notes. See when notes were modified, by whom, and get quick access to change details.
 
-### App Version
+![CleanShot 2026-04-17 at 15.32.38@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776432798617-CleanShot_2026-04-17_at_15.32.38_2x.png)
+
+### 🧮 App Version
 
 The current Tolaria version. Useful when debugging or checking for new features.
 
-### Claude Code Status
+### 🪄 AI Status
 
-Shows whether Claude Code is connected and available. Green indicator means ready; red means unavailable. When connected, you can use AI features throughout the app.
+Shows which AI Agents are available — currently Claude Code and Codex are supported — and which one is selected. You can change AI agent from there as well.
 
-### At a Glance
+![CleanShot 2026-04-17 at 15.51.39@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776433913782-CleanShot_2026-04-17_at_15.51.39_2x.png)
 
-The bottom bar gives you a quick mental model of where you stand:
+### 📣 Feedback
 
-- Are there changes to commit?
-- Is Claude Code available for AI assistance?
-- What version of Tolaria are you running?
+You can get to Github issues to open bug reports or feature requests
 
-This lets you stay in flow without wondering about your tools' state.
+###
