@@ -2,6 +2,8 @@
 type: Note
 related_to: "[[tolaria]]"
 Status: Active
+Date: 2026-04-23
+Boolean: true
 ---
 # The Properties Panel
 
