@@ -1,7 +1,6 @@
 ---
 type: Note
 _organized: true
-_archived: true
 ---
 This is a [Tolaria](https://github.com/refactoringhq/tolaria) vault — a folder of markdown files with YAML frontmatter forming a personal knowledge graph.
 
@@ -13,10 +12,10 @@ Every note is a markdown file. The **first H1 heading in the body is the title**
 ---
 type: TypeName        # the note's type (must match the title of a type file in the vault)
 url: https://...      # example property
-belongs_to: "[[other-note]]"
+belongs_to: [[other-note]]
 related_to:
-  - "[[note-a]]"
-  - "[[note-b]]"
+  - [[note-a]]
+  - [[note-b]]
 ---
 
 # Note Title
