@@ -47,8 +47,6 @@ Type `[[` to trigger autocomplete from your entire vault. This creates links to 
 
 Wikilinks also auto-update if the filename changes.
 
-[[Tolaria
-
 ### Breadcrumb Bar Actions
 
 The breadcrumb bar (above the editor) is the hub for note-level actions: favoriting, marking organized, switching editor modes, viewing git diff, and accessing properties.
