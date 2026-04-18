@@ -38,8 +38,8 @@ In this starter vault, types are regular notes stored at the vault root and use 
 ```yaml
 ---
 type: Type
-_icon: rocket
-_color: "#3b82f6"
+icon: rocket
+color: "#3b82f6"
 _order: 0
 _list_properties_display:
   - related_to
@@ -53,14 +53,14 @@ Useful type metadata in this vault includes `icon`/`_icon`, `color`/`_color`, `o
 
 ## Relationships
 
-Any frontmatter property whose value contains `[[wikilinks]]` is treated as a relationship. In this starter vault, common relationship keys include `related_to` and `belongs_to`, but custom relationship names are valid too.
+Any frontmatter property whose value contains [[wikilinks]] is treated as a relationship. In this starter vault, common relationship keys include `related_to` and `belongs_to`, but custom relationship names are valid too.
 
 Use quoted wikilinks for scalar frontmatter values and YAML lists for multi-value relationships.
 
 ## Wikilinks
 
-- `[[filename]]` or `[[Note Title]]` for normal links
-- `[[filename|display text]]` for custom display text
+- [[filename]] or [[Note Title]] for normal links
+- [[filename|display text]] for custom display text
 - Works in frontmatter values and Markdown body
 
 ## Views
@@ -85,6 +85,7 @@ filters:
 ```
 
 View rules that matter when creating or editing files:
+
 - `name` is required. `icon`, `color`, and `sort` are optional.
 - `sort` uses `option:direction`. Built-in options are `modified`, `created`, `title`, and `status`. Custom-property sorts use `property:<Property Name>`, for example `property:onboarding:asc`.
 - `filters` must be a tree whose root is exactly one `all:` group or one `any:` group.
@@ -93,7 +94,7 @@ View rules that matter when creating or editing files:
 - Supported operators are `equals`, `not_equals`, `contains`, `not_contains`, `any_of`, `none_of`, `is_empty`, `is_not_empty`, `before`, and `after`.
 - `any_of` and `none_of` expect `value` to be a YAML list.
 - `regex: true` is supported with `equals`, `not_equals`, `contains`, and `not_contains` when pattern matching is needed.
-- Relationship filters can use wikilinks in `value`, for example `"[[tolaria]]"`.
+- Relationship filters can use wikilinks in `value`, for example `"`[[tolaria]]`"`.
 - Do not create JSON view files or `.view.json` filenames.
 
 ## Filenames
