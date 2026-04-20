@@ -29,9 +29,9 @@ You can perform instant keyword search within the current list of notes to filte
 
 ### 🧭 Neighborhood mode
 
-Neighborhood mode pivots the note list around one note instead of a whole section. The selected note stays pinned at the top, and the rest of the list reorganizes into groups based on how notes connect to it.
+Neighborhood mode pivots the note list around one note instead of a whole section. The selected note stays pinned at the top, and the rest of the list reorganizes into groups based on the note’s relationships with other notes.
 
-Use it when you want to move through related projects, people, or topics without jumping back to the sidebar. To enter Neighborhood mode, `cmd+click` a note in the list, or focus a note and press `cmd+enter`.
+Use it when you want to move through related projects, people, or topics without jumping back to the sidebar. To enter Neighborhood mode, `cmd+click` a note in the list, or focus a note and press `cmd+enter`. You can use `Esc` to go back to the previous neighborhood, or to leave the mode altogether
 
 ### ➕ Creating notes
 
