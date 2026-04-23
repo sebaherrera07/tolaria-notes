@@ -47,7 +47,7 @@ Type `[[` to trigger autocomplete from your entire vault. This creates links to 
 
 Wikilinks also auto-update if the filename changes.
 
-![BlockNote image](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Flaputa%2Fattachments%2F1776508281809-CleanShot_2026-04-18_at_12.30.44_2x.png)
+![BlockNote image](attachments/1776508281809-CleanShot_2026-04-18_at_12.30.44_2x.png)
 
 ### Breadcrumb Bar Actions
 

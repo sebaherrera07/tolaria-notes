@@ -11,6 +11,6 @@ You can look at current changes and Git history from [[tolaria-bottom-bar]], cre
 
 But if you don’t want to manage this manually, Tolaria also has an opt-in **AutoGit mode** in which it automatically creates commits and pushes changes after some time, when the app gets idle, when you shift which app is in focus, and based on various heuristics.
 
-![CleanShot 2026-04-17 at 17.44.08@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776440668823-CleanShot_2026-04-17_at_17.44.08_2x.png)
+![CleanShot 2026-04-17 at 17.44.08@2x.png](attachments/1776440668823-CleanShot_2026-04-17_at_17.44.08_2x.png)
 
 You can toggle AutoGit on/off and tweak a few parameters in the settings (`cmd+,`)

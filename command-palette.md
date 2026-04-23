@@ -15,4 +15,4 @@ You can really do almost everything with it, including navigating to sections, c
 
 You don’t even need to find the exact keywords — the palette is smart enough to match a lot of commands semantically:
 
-![CleanShot 2026-04-17 at 18.08.40@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776442178567-CleanShot_2026-04-17_at_18.08.40_2x.png)
+![CleanShot 2026-04-17 at 18.08.40@2x.png](attachments/1776442178567-CleanShot_2026-04-17_at_18.08.40_2x.png)

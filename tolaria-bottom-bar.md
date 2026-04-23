@@ -11,7 +11,7 @@ The bottom bar is Tolaria's status bar — more informational than interactive. 
 
 By clicking on the vault bottom left you can change the active vault, open a new local folder, or create a new one by cloning a Git repo
 
-![CleanShot 2026-04-17 at 15.35.16@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776432929539-CleanShot_2026-04-17_at_15.35.16_2x.png)
+![CleanShot 2026-04-17 at 15.35.16@2x.png](attachments/1776432929539-CleanShot_2026-04-17_at_15.35.16_2x.png)
 
 ### 🔄 Git Sync Status
 
@@ -23,7 +23,7 @@ If you have [[autogit]] enabled, the commit button automatically creates a commi
 
 A lightweight git history view shows recent changes across all notes. See when notes were modified, by whom, and get quick access to change details.
 
-![CleanShot 2026-04-17 at 15.32.38@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776432798617-CleanShot_2026-04-17_at_15.32.38_2x.png)
+![CleanShot 2026-04-17 at 15.32.38@2x.png](attachments/1776432798617-CleanShot_2026-04-17_at_15.32.38_2x.png)
 
 ### 🧮 App Version
 
@@ -33,7 +33,7 @@ The current Tolaria version. Useful when debugging or checking for new features.
 
 Shows which AI Agents are available — currently Claude Code and Codex are supported — and which one is selected. You can change AI agent from there as well.
 
-![CleanShot 2026-04-17 at 15.51.39@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776433913782-CleanShot_2026-04-17_at_15.51.39_2x.png)
+![CleanShot 2026-04-17 at 15.51.39@2x.png](attachments/1776433913782-CleanShot_2026-04-17_at_15.51.39_2x.png)
 
 ### 📣 Feedback
 

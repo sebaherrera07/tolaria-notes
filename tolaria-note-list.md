@@ -13,13 +13,13 @@ You can sort the note list by any note property (they get dynamically loaded fro
 
 Your choice will be remembered for that specific section.
 
-![CleanShot 2026-04-16 at 21.58.56@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776369547761-CleanShot_2026-04-16_at_21.58.56_2x.png)
+![CleanShot 2026-04-16 at 21.58.56@2x.png](attachments/1776369547761-CleanShot_2026-04-16_at_21.58.56_2x.png)
 
 ### 💅 Display Properties
 
 You can customize which properties appear as columns in the note list. This lets you see important metadata at a glance without opening individual notes.
 
-![CleanShot 2026-04-16 at 21.56.07@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776369416105-CleanShot_2026-04-16_at_21.56.07_2x.png)
+![CleanShot 2026-04-16 at 21.56.07@2x.png](attachments/1776369416105-CleanShot_2026-04-16_at_21.56.07_2x.png)
 
 For properties that are URLs or other notes, you can open them directly from the note list with `cmd+click`
 

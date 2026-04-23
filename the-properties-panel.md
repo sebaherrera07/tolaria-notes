@@ -16,7 +16,7 @@ Different property types render with appropriate controls:
 - **Status** — dropdown with predefined options
 - **Tags** — tag input with autocomplete
 
-![CleanShot 2026-04-17 at 17.58.11@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776441635173-CleanShot_2026-04-17_at_17.58.11_2x.png)
+![CleanShot 2026-04-17 at 17.58.11@2x.png](attachments/1776441635173-CleanShot_2026-04-17_at_17.58.11_2x.png)
 
 ### Relationships
 
@@ -24,7 +24,7 @@ Wikilink values in frontmatter become clickable links to other notes. The panel 
 
 Tolaria also tracks backlinks and reverse relationships
 
-![CleanShot 2026-04-17 at 18.01.19@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776441716304-CleanShot_2026-04-17_at_18.01.19_2x.png)
+![CleanShot 2026-04-17 at 18.01.19@2x.png](attachments/1776441716304-CleanShot_2026-04-17_at_18.01.19_2x.png)
 
 ### Default Relationships
 

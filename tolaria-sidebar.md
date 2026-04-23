@@ -37,7 +37,7 @@ Toggle a favorite note from the ⭐ button in the breadcrumbs bar, or with `cmd+
 
 You can create custom views that filter notes by complex, nested criteria. The view editor fetches all available properties, plus allows for some tricks (like regexes and natural language dates)
 
-![CleanShot 2026-04-16 at 22.02.51@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776369786040-CleanShot_2026-04-16_at_22.02.51_2x.png)
+![CleanShot 2026-04-16 at 22.02.51@2x.png](attachments/1776369786040-CleanShot_2026-04-16_at_22.02.51_2x.png)
 
 Views are simple yaml files that get stored in the views folder (e.g. [[views/active-projects.yml]]). They can be edited easily and even created by the AI 👇
 
