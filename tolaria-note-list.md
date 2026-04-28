@@ -2,6 +2,7 @@
 type: Note
 related_to: "[[tolaria]]"
 onboarding: 3
+_organized: true
 ---
 # Note List
 

@@ -2,6 +2,7 @@
 type: Note
 related_to: "[[tolaria]]"
 onboarding: 2
+_organized: true
 ---
 # Sidebar
 

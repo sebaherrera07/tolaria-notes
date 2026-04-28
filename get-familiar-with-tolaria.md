@@ -10,10 +10,10 @@ Use this checklist to explore Tolaria and learn how it works.
 
 `Cmd+click` on wikilinks to navigate 👇
 
-- [ ] **Read the** [[tolaria-principles|Tolaria Principles]] — understand the core philosophy
-- [ ] **Explore the** [[tolaria-sidebar]] — learn Inbox, All Notes, Archive, Favorites, Types, Folders
-- [ ] **Browse the** [[tolaria-note-list]] — sorting, display properties, search within list
-- [ ] **Try the** [[tolaria-editor|Editor]] — WYSIWYG vs raw mode (Cmd+/), wikilinks with [[, H1-to-filename sync
+- [x] **Read the** [[tolaria-principles|Tolaria Principles]] — understand the core philosophy
+- [x] **Explore the** [[tolaria-sidebar]] — learn Inbox, All Notes, Archive, Favorites, Types, Folders
+- [x] **Browse the** [[tolaria-note-list]] — sorting, display properties, search within list
+- [x] **Try the** [[tolaria-editor|Editor]] — WYSIWYG vs raw mode (Cmd+/), wikilinks with [[, H1-to-filename sync
 - [ ] **Open the** [[the-properties-panel|Properties Panel]] — add a property, create a relationship
 - [ ] **Try** [[tolaria-ai]] — configure which agent to use, and `Cmd+K` then space for quick prompts.
 - [ ] **Try the** [[command-palette]] — to do more from your keyboard
