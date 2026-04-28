@@ -2,6 +2,8 @@
 type: Note
 onboarding: 8
 belongs_to: "[[tolaria]]"
+_organized: true
+_archived: true
 ---
 # Git and AutoGit
 

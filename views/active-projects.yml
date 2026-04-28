@@ -2,6 +2,8 @@ name: Start here!
 icon: null
 color: null
 sort: property:onboarding:asc
+listPropertiesDisplay:
+- status
 filters:
   any:
   - field: type

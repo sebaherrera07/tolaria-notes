@@ -3,6 +3,7 @@ type: Note
 related_to: "[[tolaria]]"
 onboarding: 1
 _organized: true
+_archived: true
 ---
 # Principles
 

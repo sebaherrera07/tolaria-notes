@@ -3,6 +3,7 @@ type: Note
 related_to: "[[tolaria]]"
 onboarding: 4
 _organized: true
+_archived: true
 ---
 # Editor
 
