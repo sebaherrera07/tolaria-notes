@@ -4,7 +4,7 @@ _icon: car
 color: orange
 _organized: true
 _sort: "title:asc"
-_sidebar_label: UniCharge
+_sidebar_label: CarCharge
 ---
 
 # CarCharge

@@ -24,4 +24,7 @@ charging_point_ingea_ciudad_costa.mark_unavailable!
 ```
 
 ```text
+curl "https://ingeacarcharge.biz/ocpp_debug/remote_start?charger_id=3425B4F2E77C&id_tag=NEVER_REGISTERED"
+
+curl "https://ingeacarcharge.biz/ocpp_debug/remote_start?charger_id=3425B4F2E77C&id_tag=1FF5A464"
 ```
