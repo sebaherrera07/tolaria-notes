@@ -32,3 +32,4 @@ _organized: true
 - 1.95% + 12 pesos
 - Cabal, Passcard, Italcred → solo los 12 pesos durante el primer año
 - Pendiente averiguar si devoluciónes cobran comisión
+- aa
