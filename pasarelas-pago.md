@@ -20,11 +20,8 @@ _organized: true
 
 <https://www.plexo.com.uy/> (mandé mail)
 
-<https://www.fiserv.com.uy/> (mandé formulario)
-
-<https://dlocalgo.com/es>
-
-<https://bamboopaymentsystems.com/payins/> (mandé formulario)
+- Hablé por videollamada
+- Parecen ser un intermediario de Handy así que no sé si nos sirve.
 
 <https://handy.uy/productos/pasarela-de-pago/> (mandé formulario y WhatsApp)
 
@@ -33,3 +30,11 @@ _organized: true
 - Cabal, Passcard, Italcred → solo los 12 pesos durante el primer año
 - Pendiente averiguar si devoluciónes cobran comisión
 - aa
+
+<https://www.fiserv.com.uy/> (mandé formulario)
+
+<https://dlocalgo.com/es>
+
+<https://www.getnet.com.uy/webcheckout>
+
+<https://bamboopaymentsystems.com/payins/> (mandé formulario)
