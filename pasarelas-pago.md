@@ -20,6 +20,8 @@ _organized: true
 
 <https://www.plexo.com.uy/> (mandé mail)
 
+- A
+
 <https://www.fiserv.com.uy/> (mandé formulario)
 
 <https://dlocalgo.com/es>
@@ -32,4 +34,4 @@ _organized: true
 - 1.95% + 12 pesos
 - Cabal, Passcard, Italcred → solo los 12 pesos durante el primer año
 - Pendiente averiguar si devoluciónes cobran comisión
-- aa
+- <https://handy.uy/guias-de-integracion/> - Checkout API
