@@ -6,38 +6,32 @@ _organized: true
 
 <https://polar.sh/#pricing>
 
-- 5.00% + 50¢ per transaction
-- Or, 3.80% + 40¢ per transaction + 20 USD per month
+![image.png](attachments/1780878743519-image.png)
 
 <https://www.paddle.com/pricing>
 
-- 5.00% + 50¢ per transaction
+![image.png](attachments/1780882460592-image.png)
 
 <https://www.mercadopago.com.uy/herramientas-para-vender/check-out>
 
-- 4,99% + IVA con pagos a 21 días
-- o, 5,99% + IVA con pagos al instante
+![image.png](attachments/1780878785032-image.png)
+
+## Pendientes
+
+<https://www.plexo.com.uy/> (mandé mail)
+
+- A
+
+<https://www.fiserv.com.uy/> (mandé formulario)
+
+<https://dlocalgo.com/es>
+
+<https://bamboopaymentsystems.com/payins/> (mandé formulario)
 
 <https://handy.uy/productos/pasarela-de-pago/> (mandé formulario y WhatsApp)
 
 - 0 costo mantenimiento
 - 1.95% + 12 pesos
 - Cabal, Passcard, Italcred → solo los 12 pesos durante el primer año
-- Devoluciónes devuelven la comisión
-
-<https://www.plexo.com.uy/> (mandé mail)
-
-- Hablé por videollamada
-- Parecen ser un intermediario de Handy así que no sé si nos sirve.
-
-## Pendientes
-
-<https://www.fiserv.com.uy/> (mandé formulario)
-
-- Descartado - solo funciona como carritos de compras
-
-<https://dlocalgo.com/es>
-
-<https://www.getnet.com.uy/webcheckout>
-
-<https://bamboopaymentsystems.com/payins/> (mandé formulario)
+- Pendiente averiguar si devoluciónes cobran comisión
+- <https://handy.uy/guias-de-integracion/> - Checkout API
