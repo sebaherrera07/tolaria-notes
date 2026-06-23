@@ -34,6 +34,8 @@ _organized: true
 
 <https://www.fiserv.com.uy/> (mandé formulario)
 
+- Descartado - solo funciona como carritos de compras
+
 <https://dlocalgo.com/es>
 
 <https://www.getnet.com.uy/webcheckout>
