@@ -10,3 +10,5 @@ Ida - 5 o 6 de septiembre
 Vuelta - 20 de septiembre
 
 - Ciudad de Mexico - Montevideo
+
+Next Trip - Katina
